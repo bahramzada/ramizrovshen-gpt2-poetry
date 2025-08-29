@@ -10,7 +10,7 @@ This project fine-tunes OpenAI's GPT-2 model on a curated collection of Azerbaij
 
 ## About Ramiz Rovshen
 
-Ramiz Rovshen (1946-2022) was an influential Azerbaijani poet known for his profound and emotionally resonant verse. His poetry explores themes of love, nature, existential reflection, and the human condition, written in a distinctly modern Azerbaijani literary style.
+Ramiz Rovshen (1946) was an influential Azerbaijani poet known for his profound and emotionally resonant verse. His poetry explores themes of love, nature, existential reflection, and the human condition, written in a distinctly modern Azerbaijani literary style.
 
 ## Features
 
@@ -23,7 +23,7 @@ Ramiz Rovshen (1946-2022) was an influential Azerbaijani poet known for his prof
 ## Dataset
 
 The training dataset consists of:
-- **Source**: Cleaned poems by Ramiz Rovshen
+- **Source**: [My Kaggle Dataset](https://www.kaggle.com/datasets/raullte/azerbaijan-ramiz-rovshan-poems)
 - **Size**: 7,691 lines of poetry
 - **Language**: Azerbaijani
 - **Format**: UTF-8 encoded text file
